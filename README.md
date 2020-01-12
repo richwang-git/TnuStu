@@ -1,4 +1,6 @@
 TnuStu
 ======
 
-Good info. to the projects of the TNU-IT students
+Dear Students,
+The following is the course informations and resources.
+Welcome to Go and Look.
