@@ -2,5 +2,5 @@ TnuStu
 ======
 
 Dear Students,
-The following is the course informations and resources.
-Welcome to Go and Look.
+the following is the course informations and resources.
+Welcome to Visit and Look.
